@@ -1,0 +1,10 @@
+{
+	"tables":[
+		{
+			"response_url":"json/booklist_response_data.json"
+		},
+		{
+			"response_url":"json/booklist_response_data.json"
+		}
+	]
+}
