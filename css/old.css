@@ -1,0 +1,16 @@
+table {
+	border-collapse: collapse;
+	border: none;
+}
+th,
+td {
+	border: 1px solid black;
+	padding: 4px 16px;
+	font-family: Times New Roman;
+	font-size: 18px;
+	text-align: left;
+}
+th {
+	background-color: #C8C8C8;
+	cursor: pointer;
+}
